@@ -1,4 +1,5 @@
-![JARVIS](https://github.com/ankitaasamal/Smart-AI-Desktop-Assistant/assets/106763739/44968c22-6c40-4626-99e0-03d61ed33bb0)
+![myJARVIS](https://github.com/ankitaasamal/Smart-AI-Desktop-Assistant/assets/106763739/da9c7134-f18e-4607-8846-817d0574c2a7)
+
 
 # JARVIS
 Welcome to the JARVIS Desktop AI, your personal assistant for a smarter, more efficient desktop experience. JARVIS is an open-source, AI-powered virtual assistant that leverages speech recognition and an array of smart features to simplify your daily tasks and enhance your productivity.
