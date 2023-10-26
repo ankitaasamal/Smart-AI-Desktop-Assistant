@@ -1,18 +1,11 @@
 # JARVIS
 Welcome to the JARVIS Desktop AI, your personal assistant for a smarter, more efficient desktop experience. JARVIS is an open-source, AI-powered virtual assistant that leverages speech recognition and an array of smart features to simplify your daily tasks and enhance your productivity.
 
-Table of Contents
-Introduction
-Features
-Installation
-Getting Started
-Usage
-Contributing
-License
-Introduction
+
+Introduction:-
 JARVIS, inspired by the iconic AI assistant in popular culture, brings the power of AI and natural language processing to your desktop. With JARVIS, you can interact with your computer using voice commands, automate repetitive tasks, and streamline your workflow. It's your own personal AI companion right on your desktop!
 
-Features
+Features:-
 1. Speech Recognition
 Voice Activation: JARVIS responds to your voice commands, making it intuitive and user-friendly.
 Multi-language Support: JARVIS recognizes multiple languages, ensuring it can communicate with users worldwide.
